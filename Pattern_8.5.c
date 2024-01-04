@@ -9,11 +9,11 @@ int main()
         {
             if(i==j||i+j==n+1)
             {
-            printf("%c",i+64);
+                printf("%c",i+64);
             }
             else
             {
-             printf(" ");
+                printf(" ");
             }
         }
         printf("
